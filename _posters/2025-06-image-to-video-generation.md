@@ -4,7 +4,7 @@ collection: posters
 type: "Poster Presentation"
 permalink: /posters/2025-06-image-to-video-generation
 venue: "MSc AI Research Showcase, Lab42"
-date: 2025-06-01
+date: 2025-03-01
 location: "University of Amsterdam, Amsterdam, The Netherlands"
 posterurl: '/files/Image-to-Video-Generation-Poster.pdf'
 excerpt: 'Explored generating interior video tours from single high-resolution images using diffusion-based video models. Evaluated post-processing pipelines achieving SSIM up to 0.917.'
