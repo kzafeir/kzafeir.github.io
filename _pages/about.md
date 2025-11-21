@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master’s student in Artificial Intelligence at the University of Amsterdam, Faculty of Science. My research focuses on developing reliable, trustworthy, and efficient machine learning systems, with particular interests in data-centric approaches, model serving optimization, privacy-preserving techniques, and information retrieval. My goald is to conduct doctoral research investigating the implications of large language models, focusing on enhancing their security, efficiency, and trustworthiness, while also advancing the development of interpretable AI for critical applications.
+I am a Master’s student in Artificial Intelligence at the University of Amsterdam, Faculty of Science. My research focuses on developing reliable, trustworthy, and efficient machine learning systems, with particular interests in data-centric approaches, model serving optimization, privacy-preserving techniques, and information retrieval. My goal is to conduct doctoral research investigating the implications of large language models, focusing on enhancing their security, efficiency, and trustworthiness, while also advancing the development of interpretable AI for critical applications.
 
 My work spans several key areas:
 
