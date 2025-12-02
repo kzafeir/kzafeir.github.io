@@ -11,13 +11,11 @@ I am a Master’s student in Artificial Intelligence at the University of Amster
 
 My work spans several key areas:
 
-- **Reliable and Trustworthy Machine Learning**: Developing methods to ensure ML systems are robust, fair, and interpretable
-- **Efficient Inference and Model Serving**: Improving the efficiency and scalability of ML model deployment
-- **Privacy and Auditing in Neural Networks**: Ensuring privacy and enabling comprehensive auditing of neural network behavior
-- **Information Retrieval**: Advancing search and retrieval systems using modern ML techniques
-- **Natural Language Processing**: Applying NLP methods to real-world problems
-- **Computer Vision & Signal Processing**: Applying advanced signal processing techniques and deep learning architectures (like ViTs) to solve problems in image analysis, particularly in detecting artifacts and ensuring data authenticity.
-## Current Work
+  - **Reliable and Trustworthy Machine Learning**: Developing methods to ensure ML systems are robust, fair, and interpretable
+  - **Generative AI Safety**: Investigating failure modes in diffusion models and LLMs, specifically focusing on hallucination detection and artifact quantification in high-stakes domains (Remote Sensing, Healthcare).
+  - **Efficient & Scalable Verification**: Improving the inference efficiency of verified models. I am interested in how system-level optimizations can make robust safety checks feasible in real-time deployment.
+  - **Neural Network Auditing**: designing frameworks to interpret and audit neural network behavior for privacy leaks and spurious correlations.
+  ## Current Work
 
 I am currently working as a Machine Learning Researcher at Elsevier B.V. & IRlab UvA, where I focus on machine unlearning techniques, model compliance, and privacy-preserving ML systems. I am also a co-founder of Jobly.ai, an AI-powered platform for matching candidates with opportunities using NLP-based resume parsing and transformer models.
 
