@@ -1,13 +1,13 @@
 ---
 title: "A Framework for Detecting and Quantifying Hallucinations in Remote Sensing Image Inpainting"
 collection: publications
-category: in_preparation
+category: submitted
 permalink: /publication/2025-hallucination-detection-image-inpainting
-excerpt: 'A framework for detecting and quantifying hallucinations in remote sensing image inpainting, achieving 87% accuracy in identification and 66% in quantification.'
+excerpt: 'A framework for detecting and quantifying hallucinations in remote sensing image inpainting.'
 date: 2025-01-01
-venue: 'IEEE Transactions on Geoscience & Remote Sensing (In Preparation)'
+venue: 'IEEE Geoscience & Remote Sensing Letters'
 paperurl: '/files/IEEE_Hallucination_Detection.pdf'
-citation: 'Zafeirakis, K., & Tsagkatakis, G. (2025). &quot;A Framework for Detecting and Quantifying Hallucinations in Remote Sensing Image Inpainting.&quot; <i>IEEE Transactions on Geoscience & Remote Sensing</i>. In Preparation.'
+citation: 'Zafeirakis, K., & Tsagkatakis, G. (2025). &quot;A Framework for Detecting and Quantifying Hallucinations in Remote Sensing Image Inpainting.&quot; <i>IEEE Geoscience & Remote Sensing Letters</i>.'
 ---
 
 This paper presents a framework designed to detect and quantify hallucinations in remote sensing image inpainting systems. Building upon advanced computer vision techniques, the work addresses a critical challenge in generative image models for remote sensing applications: detecting when inpainting algorithms produce artifacts or unrealistic content that deviates from the original image context.
@@ -18,5 +18,5 @@ This research contributes to the broader field of reliable and trustworthy machi
 
 [Download paper here](/files/IEEE_Hallucination_Detection.pdf)
 
-Recommended citation: Zafeirakis, K., & Tsagkatakis, G. (2025). "A Framework for Detecting and Quantifying Hallucinations in Remote Sensing Image Inpainting." <i>IEEE Transactions on Geoscience & Remote Sensing</i>. In Preparation.
+Recommended citation: Zafeirakis, K., & Tsagkatakis, G. (2025). "A Framework for Detecting and Quantifying Hallucinations in Remote Sensing Image Inpainting." <i>IEEE Geoscience & Remote Sensing Letters</i>.
 
