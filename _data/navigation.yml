@@ -17,8 +17,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Curriculum Vitae"
-    url: /cv/
+  # CV tab hidden; page still available at /cv/ — uncomment to show in nav
+  # - title: "Curriculum Vitae"
+  #   url: /cv/
     
   # - title: "Curriculum Vitae"
   #   url: /cv-json/
