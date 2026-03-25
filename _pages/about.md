@@ -35,8 +35,8 @@ I am currently working as a AI Engineer Intern at TKH AI, where I am completing 
 
 ## Education
 
-- **MSc in Artificial Intelligence**, University of Amsterdam (GPA: 8.15/10)
-- **Diploma in Electrical and Computer Engineering**, Technical University of Crete (GPA: 8.81/10, Rank: 1st in cohort)
+- **MSc in Artificial Intelligence**, University of Amsterdam
+- **Diploma in Electrical and Computer Engineering**, Technical University of Crete
 
 ## Contact
 
