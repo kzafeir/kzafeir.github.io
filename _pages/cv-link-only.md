@@ -7,6 +7,9 @@ sitemap: false
 noindex: true
 ---
 
-<p><a href="{{ base_path }}/files/KZ_CV.pdf" target="_blank" rel="noopener noreferrer" class="btn btn--primary">Download CV (PDF)</a></p>
+<p style="max-width: 36rem; margin: 0 auto 1.25rem; text-align: center;">Open the PDF below. On phones and tablets it usually opens full screen in your browser or PDF app.</p>
 
-<iframe src="{{ base_path }}/files/KZ_CV.pdf" title="Curriculum Vitae (PDF)" style="width:100%; min-height:85vh; border:1px solid #ddd;" loading="lazy"></iframe>
+<p style="max-width: 22rem; margin: 0 auto;">
+  <a href="{{ base_path }}/files/KZ_CV.pdf" class="btn btn--primary btn--large btn--block" target="_blank" rel="noopener noreferrer">Open CV (PDF)</a>
+  <a href="{{ base_path }}/files/KZ_CV.pdf" class="btn btn--inverse btn--large btn--block" download="KZ_CV.pdf">Download CV (PDF)</a>
+</p>
