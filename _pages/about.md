@@ -7,36 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-
-<!-- I am a Master's student in Artificial Intelligence at the University of Amsterdam, Faculty of Science. My research focuses on developing reliable, trustworthy, and efficient machine learning systems, with particular interests in data-centric approaches, model serving optimization, privacy-preserving techniques, and information retrieval. My goal is to conduct doctoral research investigating the implications of large language models, focusing on enhancing their security, efficiency, and trustworthiness, while also advancing the development of interpretable AI for critical applications. -->
-
-I am a Master’s student in Artificial Intelligence at the University of Amsterdam, Faculty of Science. My research focuses on data systems and infrastructure for trustworthy adaptive machine learning, with an emphasis on retrieval for LLM pipelines, controllable model adaptation, and efficient model serving.
-
-<!--
-My work spans several key areas:
-
-    Reliable and Trustworthy Machine Learning: Developing methods to ensure ML systems are robust, fair, and interpretable
-    Generative AI Safety: Investigating failure modes in diffusion models and LLMs, specifically focusing on hallucination detection and artifact quantification in high-stakes domains (Remote Sensing, Healthcare).
-    Efficient & Scalable Verification: Improving the inference efficiency of verified models. I am interested in how system-level optimizations can make robust safety checks feasible in real-time deployment.
-    Neural Network Auditing: designing frameworks to interpret and audit neural network behavior for privacy leaks and spurious correlations. ## Current Work
--->
-
+I am a Master’s student in Artificial Intelligence at the University of Amsterdam, Faculty of Science. My research focuses on developing reliable, trustworthy, and efficient machine learning systems, with particular interests in data-centric approaches, model serving optimization, privacy-preserving techniques, and information retrieval. My goal is to conduct doctoral research investigating the implications of large language models, focusing on enhancing their security, efficiency, and trustworthiness, while also advancing the development of interpretable AI for critical applications.
 
 My work spans several key areas:
 
-  - **Data Systems for Machine Learning**
-  - **Retrieval for LLM & RAG Pipelines**
-  - **Reliable and Trustworthy Machine Learning**
-  - **Generative AI Safety**
+  - **Reliable and Trustworthy Machine Learning**: Developing methods to ensure ML systems are robust, fair, and interpretable
+  - **Generative AI Safety**: Investigating failure modes in diffusion models and LLMs, specifically focusing on hallucination detection and artifact quantification in high-stakes domains (Remote Sensing, Healthcare).
+  - **Efficient & Scalable Verification**: Improving the inference efficiency of verified models. I am interested in how system-level optimizations can make robust safety checks feasible in real-time deployment.
+  - **Neural Network Auditing**: designing frameworks to interpret and audit neural network behavior for privacy leaks and spurious correlations.
 
-
+## Current Work
 
 I am currently working as a AI Engineer Intern at TKH AI, where I am completing my thesis on codebase specialized agents. I am also a co-founder of Jobly.ai, an AI-powered platform for matching candidates with opportunities using NLP-based resume parsing and transformer models.
 
 ## Education
 
-- **MSc in Artificial Intelligence**, University of Amsterdam
-- **Diploma in Electrical and Computer Engineering**, Technical University of Crete
+- **MSc in Artificial Intelligence**, University of Amsterdam (GPA: 8.07/10)
+- **Diploma in Electrical and Computer Engineering**, Technical University of Crete (GPA: 8.81/10, Rank: 1st in cohort)
 
 ## Contact
 
